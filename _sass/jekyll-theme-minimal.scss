@@ -212,25 +212,25 @@ footer {
 
 @media (prefers-color-scheme: dark) {
   body {
-    background-color: #000;
+    background-color: #0F1116;
     padding:50px;
     font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    color:#a6a6a6;
+    color:#CAD1D8;
     font-weight:400;
   }
 
   h1, h2, h3, h4, h5, h6 {
-    color:#fdfdfd;
+    color:#CAD1D8;
     margin:0 0 20px;
   }
 
   h2 {
-    color:#c6c6c6;
+    color:#CAD1D8;
     font-weight: 500;
   }
 
   h3, h4, h5, h6 {
-    color:#b6b6b6;
+    color:#CAD1D8;
     font-weight: 500;
   }
 
@@ -245,13 +245,13 @@ footer {
 
   a small {
     font-size:11px;
-    color:#f8f8f8;
+    color:#CAD1D8;
     margin-top:-0.3em;
     display:block;
   }
 
   a:hover small {
-    color:#f8f8f8;
+    color:#CAD1D8;
   }
 
   blockquote {
@@ -309,7 +309,7 @@ footer {
   header ul a {
     line-height:1;
     font-size:11px;
-    color:#f6f6f6;
+    color:#CAD1D8;
     display:block;
     text-align:center;
     padding-top:6px;
@@ -317,27 +317,27 @@ footer {
   }
 
   header ul a:hover {
-    color:#f6f6f6;
+    color:#CAD1D8;
   }
 
   header ul a:active {
-    background-color:#000000;
+    background-color:#0E1116;
   }
 
   strong {
-    color:#fdfdfd;
+    color:#CAD1D8;
     font-weight:500;
   }
 
   header ul a strong {
     font-size:14px;
     display:block;
-    color:#fdfdfd;
+    color:#CAD1D8;
   }
 
   hr {
     border:0;
-    background:#1a1a1a;
+    background:#0E1116;
     height:1px;
     margin:0 0 20px;
   }
